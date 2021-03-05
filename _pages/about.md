@@ -2,23 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_photo.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>merciyes18_at_ku.edu.tr</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Enes! I am a Computer Engineering and Electrical & Electronics Engineering junior in [Koç University](https://cs.ku.edu.tr/), Istanbul. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I love creating projects and being involved in lots of stuff!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am the co-founder and currently co-president of KU AIRS for two years. You can check out [here](https://airs.club/) and see what we have been doing. Also, I am a co-founder of __SPARK Autonomous Car Team__ under the roof of KU AIRS. We are joining [Teknofest Robotaksi Contest](https://teknofest.org/en/yarisma-detaylar-6.html), the only self-driving car contest in Turkey. We have won [first place](https://www.linkedin.com/posts/meerciyes_keepmaking-autonomouscars-ai-activity-6660190866252148736-kn_O) in the preliminary design & simulation phase in last year’s competition. However, we could not have continued the project due to COVID-19. Now, we are preparing again for this year and I am leading an amazing software team.
+
+I am also a [GLLP](https://glls.ku.edu.tr/) fellow and a [University Innovation Fellow](https://universityinnovation.org/wiki/Main_Page) - a fellowship organized by Stanford d.school - in my university. Here, me and my friends create projects to solve the most common problems in student life. I mostly contribute to KULendar project, a comprehensive calendar portal for all kinds of events in our school. 
+
+Alongside these, I am working as an Undergraduate Research Assistant at [Intelligent User Interfaces Lab](https://iui.ku.edu.tr/), working on AI-based sketch recognition and design solutions for PowerPoint. 
+
