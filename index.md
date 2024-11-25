@@ -17,7 +17,13 @@ I am currently working on home robotics and mobile manipulation with [Lerrel Pin
 ## [Google Scholar](https://scholar.google.com/citations?user=pqU1r20AAAAJ&hl=en)
 
 
-## Publications / Preprints 
+## Publications / Preprints
 + AnySkin: Plug-and-Play Skin Sensing for Robotic Touch\
  Raunaq Bhirangi, Venkatesh Pattabiraman, **Enes Erciyes**, Yifeng Cao, Tess Hellebrekers, Lerrel Pinto \
  [[Arxiv]](https://arxiv.org/abs/2409.08276) [[Website]](https://any-skin.github.io/)
+
+
+
+## Notes / ideas
+
++ [Policy gradients notes](./Policy-Gradient.md)
