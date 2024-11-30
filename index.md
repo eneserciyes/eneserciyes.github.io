@@ -26,4 +26,4 @@ I am currently working on home robotics and mobile manipulation with [Lerrel Pin
 
 ## Notes / ideas
 
-+ [Policy gradients notes](./Policy-Gradient.md)
++ [Policy gradients notes](./Policy-Gradient.html)
